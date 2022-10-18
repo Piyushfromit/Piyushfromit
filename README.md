@@ -15,10 +15,10 @@
 
 
 - 🔭 I’m currently working on Backend and Frontend technologies 😅
-//- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
-- 🌱 I’m currently learning **MySQL, JDBC, LLD, AWS**
+<!-- - 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School. -->
+- 🌱 I’m currently learning **SQL, JDBC, LLD, AWS**
 - 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
-//- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+<!-- - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas. -->
 - 👨‍💻 This is [My Portfolio]()
 
 -  📄 This is [My Resume]([https://drive.google.com/file/d/1AQuDjqK5O0mhJauKVGziQUxPInnq9uU-/view?usp=sharing](https://drive.google.com/file/d/1EvBHihvRxjHW00zP09smySCCJ1zxLG1M/view?usp=sharing))
