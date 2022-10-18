@@ -1,30 +1,26 @@
+
 <h1 align="center">
- 👋 Hi, I'm Piyush Kumar
+ Hi 👋, I'm Piyush Kumar
 </h1>
  
 
 <p align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
 </p>
+
 
 </br> 
 
-<img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966">
-
-
-
 <!-- <a href="#"><img  width="100%" height="auto" src="https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg" height="175px"/></a> -->
 
+<img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966">
 
 - 🔭 I’m currently working on Backend and Frontend technologies 😅
-<!-- - 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School. -->
-- 🌱 I’m currently learning **SQL, JDBC, LLD, AWS**
-- 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
-<!-- - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas. -->
+- 🌱 I’m currently learning   **SQL, JDBC, LLD, AWS** at Masai School.
+- 💬 Ask me about   **Java, JavaScript, HTML, CSS**
 - 👨‍💻 This is [My Portfolio]()
-
--  📄 This is [My Resume]([https://drive.google.com/file/d/1AQuDjqK5O0mhJauKVGziQUxPInnq9uU-/view?usp=sharing](https://drive.google.com/file/d/1EvBHihvRxjHW00zP09smySCCJ1zxLG1M/view?usp=sharing))
-- 📫 How to reach me: piyushfrommasai@gmail.com
+-  📄 This is [My Resume](https://drive.google.com/file/d/1AQuDjqK5O0mhJauKVGziQUxPInnq9uU-/view?usp=sharing)
+- 📫 How to reach me:   **piyushfrommasai@gmail.com**
 
 
 
@@ -160,8 +156,8 @@
 ## 📊 My Github Stats
 
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=hustler-abhi&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hustler-abhi&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=Piyushfromit&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushfromit&theme=algolia" />
 </p>
 
 
@@ -176,7 +172,7 @@
 
 ## ❤ Views and Followers
 
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=hustler-abhi&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=Piyushfromit&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
 <h2 align='left'>Thank You ❤</h2>
