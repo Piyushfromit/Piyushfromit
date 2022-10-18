@@ -1,6 +1,6 @@
 
 <h1 align="center">
- Hi 👋, I'm Piyush Kumar <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
+ Hi 👋, I'm Piyush Kumar 
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 
-</br> 
+<!-- </br>  -->
 
 <!-- <a href="#"><img  width="100%" height="auto" src="https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg" height="175px"/></a> -->
 
