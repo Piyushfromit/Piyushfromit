@@ -1,10 +1,10 @@
 <h1 align="center">
- 👋 Hi, I'm Abhishek Kumar!
+ 👋 Hi, I'm Piyush Kumar
 </h1>
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
+<img src="[https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer](https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966)" > 
 </p>
 
 
@@ -15,13 +15,14 @@
 
 
 - 🔭 I’m currently working on Backend and Frontend technologies 😅
-- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
+//- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
+- 🌱 I’m currently learning **MySQL, JDBC, LLD, AWS**
 - 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+//- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio]()
 
--  📄 This is [My Resume](https://drive.google.com/file/d/1AQuDjqK5O0mhJauKVGziQUxPInnq9uU-/view?usp=sharing)
-- 📫 How to reach me: ...hustlerabhishek895@gmail.com
+-  📄 This is [My Resume]([https://drive.google.com/file/d/1AQuDjqK5O0mhJauKVGziQUxPInnq9uU-/view?usp=sharing](https://drive.google.com/file/d/1EvBHihvRxjHW00zP09smySCCJ1zxLG1M/view?usp=sharing))
+- 📫 How to reach me: piyushfrommasai@gmail.com
 
 
 
@@ -37,12 +38,12 @@
 
 <!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
 <!--   <br/> -->
-   <a href="https://github.com/hustler-abhi"><img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hustler-abhi&custom_title=Abhishek's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Piyushfromit"><img alt="Piyush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Piyushfromit&custom_title=Piyush's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hustler-abhi" alt="Abhishek" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Piyushfromit" alt="Piyush" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -57,11 +58,11 @@
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hustler-abhi&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hustler-abhi&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hustler-abhi&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hustler-abhi&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hustler-abhi&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushfromit&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyushfromit&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyushfromit&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyushfromit&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyushfromit&theme=solarized_dark&utcOffset=8">
 	
 </p>
 
