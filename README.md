@@ -168,7 +168,7 @@
 ## Connect with me:
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/piyushfromit/)"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/piyushfromit/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
 </p>
 
