@@ -17,9 +17,9 @@
 
 <img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966">
 
-- 🔭 I’m currently working on Backend and Frontend technologies 😅
-- 🌱 I’m currently learning   **SQL, JDBC, LLD, AWS** at Masai School.
-- 💬 Ask me about   **Java, JavaScript, HTML, CSS**
+- 🔭 I’m currently working on   Backend and Frontend technologies 😅
+- 🌱 I’m currently learning     **SQL, JDBC, LLD, AWS** at Masai School.
+- 💬 Ask me about     **Java, JavaScript, HTML, CSS**
 - 👨‍💻 This is [My Portfolio]()
 -  📄 This is [My Resume](https://drive.google.com/file/d/1EvBHihvRxjHW00zP09smySCCJ1zxLG1M/view?usp=sharing)
 - 📫 How to reach me:   **piyushfrommasai@gmail.com**
