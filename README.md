@@ -3,9 +3,12 @@
  Hi 👋, I'm Piyush Kumar 
 </h1>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
-</p>
+</p> -->
+
+<h3 align="center">A Passionate Java Backend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h3>
+
 
 
 <!-- </br>  -->
