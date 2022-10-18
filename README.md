@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">A passionate backend java developer from India</h3>
+<h3 align="center">A Passionate Java Backend Developer with hands-on experience in developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushfromit&label=Profile%20views&color=0e75b6&style=flat" alt="piyushfromit" /> </p>
 
