@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 <h3 align="center">A Passionate Java Backend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*YUyz7qhJ2zatDuDq_3wGcg.gif">
+<img align="center" alt="Coding" width="800" src="https://miro.medium.com/max/1400/1*YUyz7qhJ2zatDuDq_3wGcg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushfromit&label=Profile%20views&color=0e75b6&style=flat" alt="piyushfromit" /> </p>
 
